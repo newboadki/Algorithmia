@@ -1,0 +1,21 @@
+PODS:
+  - RSDataStructures (0.1.0)
+
+DEPENDENCIES:
+  - RSDataStructures (from `https://github.com/newboadki/RSDataStructures.git`)
+
+EXTERNAL SOURCES:
+  RSDataStructures:
+    :git: https://github.com/newboadki/RSDataStructures.git
+
+CHECKOUT OPTIONS:
+  RSDataStructures:
+    :commit: da3740a686c97fe8ec66c2cdf7f8dfbe839684e8
+    :git: https://github.com/newboadki/RSDataStructures.git
+
+SPEC CHECKSUMS:
+  RSDataStructures: 167e0744b07d1af480ff22dbc2d4d772bfe2e3d4
+
+PODFILE CHECKSUM: b438dd28562c792c935a50d13dfd408fdb0e6bf2
+
+COCOAPODS: 1.4.0

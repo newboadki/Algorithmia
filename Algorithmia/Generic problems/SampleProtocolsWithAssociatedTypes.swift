@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import RSDataStructures
 
 func sample() {
     var queue = SinglyLinkedList<Int>()

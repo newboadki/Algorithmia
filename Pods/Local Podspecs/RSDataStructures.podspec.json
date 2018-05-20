@@ -1,0 +1,23 @@
+{
+  "name": "RSDataStructures",
+  "version": "0.1.0",
+  "summary": "Basic data structures and some related algorithms.",
+  "swift_version": "4.1",
+  "description": "Basic data structures and some related algorithms. The implementation follows Swifts Standard Library approach, favoring protocols and protocol extensions over inheritance. Copy on write has been implemented on certain data structures to optimise copies and to support the implementation based on value semantics.",
+  "homepage": "https://github.com/newboadki/RSDataStructures",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Borja Arias Drake": "borja.arias@gmail.com"
+  },
+  "source": {
+    "git": "git@github.com:newboadki/RSDataStructures.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RSDataStructures/Classes/**/*"
+}

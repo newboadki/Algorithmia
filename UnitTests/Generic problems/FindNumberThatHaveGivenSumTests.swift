@@ -8,6 +8,7 @@
 
 import XCTest
 
+
 class FindNumberThatHaveGivenSumTests: XCTestCase {
     
     func testExampleWithSolutions() {

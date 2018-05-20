@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import RSDataStructures
 
 func isPalindrome<T: Comparable>(list: SinglyLinkedList<T>) -> Bool
 {

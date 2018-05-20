@@ -1,0 +1,6 @@
+framework module RSDataStructures {
+  umbrella header "RSDataStructures-iOS10.1-umbrella.h"
+
+  export *
+  module * { export * }
+}
